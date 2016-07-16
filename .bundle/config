@@ -1,2 +1,5 @@
---- 
+---
 BUNDLE_WITHOUT: kvm
+BUNDLE_PATH: vendor/bundle
+BUNDLE_NO_PRUNE: true
+BUNDLE_DISABLE_SHARED_GEMS: true
