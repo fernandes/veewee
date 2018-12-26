@@ -1,0 +1,5 @@
+---
+:os_type_id: 'Debian_64'
+:iso_file: "debian-9.6.0-amd64-netinst.iso"
+:iso_src: "http://cdimage.debian.org/debian-cd/9.6.0/amd64/iso-cd/debian-9.6.0-amd64-netinst.iso"
+:iso_md5: "0a5352e3568bc893a9f7b65192caf1e1"
